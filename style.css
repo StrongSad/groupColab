@@ -34,14 +34,14 @@
 }
 
 body {
-	margin-left: 33%;
-	font-family: helvetica;
+/*	margin-left: 33%;
+*/	font-family: helvetica;
 	background-color:beige;
 
 }
 h1 {
-	margin-left: 20%;
-
+/*	margin-left: 20%;
+*/
 }
 #score {
 	color: teal;
