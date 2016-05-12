@@ -30,7 +30,8 @@ LinkedIn Facebook Twitter login
 //Tech used
 Ruby on Rails
 Javascript
-Slack
+Slack API
 Socket.io
 WebRTC
 Google Calendar API
+stripe
