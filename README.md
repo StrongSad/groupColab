@@ -9,10 +9,11 @@ Project Ideas
 A github mashed up with Slack & a kanban board. Connectiviity and productivity that makes each of the different websites we used for this project available from one easy source
 
 //Group assignments
-PM
-FE
-BE
-FSD
+Prime Master Bryce
+Github Master 
+Front End Jacob
+Back End Bryce
+Full Stack Dev Eunice, Nat
 
 //MVP
 File upload/sharing
@@ -26,8 +27,6 @@ Socket chat or Slack API
 Calendar API
 Apple Pay/Stripe/"fake money"
 LinkedIn Facebook Twitter login
-
-
 
 //Tech used
 Ruby on Rails
