@@ -1,1 +1,49 @@
+<<<<<<< HEAD
 /* nat css*/
+=======
+.grid-container {
+	position: absolute;
+	border: solid black 5px;
+	border-radius: 10px;
+	background-color: black;
+	font-weight: bold;
+	color: black;
+	min-width:410px;
+	min-height: 410px;
+}
+.grid-cell {
+	background: teal;
+	min-width: 100px;
+	min-height: 100px;
+	border:1px;
+	border-radius: 10px;
+	display: inline-block;
+	margin: 1px;
+	text-align: center;
+	line-height: 100px;
+	font-size: 20px;
+	color: white;
+ 	text-shadow: 1px 1px 1px #000,
+             -1px -1px 1px #000,
+             -1px 1px 1px #000,
+              1px -1px 1px #000;
+}
+.grid-row {
+/*	display: inline-block;
+*/
+}
+
+body {
+	margin-left: 33%;
+	font-family: helvetica;
+	background-color:beige;
+
+}
+h1 {
+	margin-left: 20%;
+
+}
+#score {
+	color: teal;
+}
+>>>>>>> a19497bf4c4beb96a770e6a401f0fc86b3e5bb36
