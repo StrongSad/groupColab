@@ -4,7 +4,7 @@ Eunice, Nat, Bryce, and Jacob's group project for General Assembly WDI Poject3 t
 
 Project Ideas
 
-A github mashed up with Slack & a kanban board. Connectiviity and productivity that makes each of the different websites we used for this project one easy source.
+A github mashed up with Slack & a kanban board. Connectiviity and productivity that makes each of the different websites we used for this project available from one easy source
 
 //Group assignments
 PM
