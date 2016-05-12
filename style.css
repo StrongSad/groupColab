@@ -37,6 +37,7 @@ body {
 /*	margin-left: 33%;
 */	font-family: helvetica;
 	background-color:beige;
+	color: blue;
 
 }
 h1 {
@@ -48,4 +49,7 @@ h1 {
 }
 >>>>>>> a19497bf4c4beb96a770e6a401f0fc86b3e5bb36
 
+hr {
+	color: black;
+}
 
